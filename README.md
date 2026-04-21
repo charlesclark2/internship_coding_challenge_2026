@@ -4,7 +4,7 @@
 
 Welcome to Meridian Financial Group — a mid-sized consumer lending and credit card company serving over 2,000 customers across the United States.
 
-You have just joined the Analytics team as a Data Analyst intern. Your manager has handed you access to the company's transaction database and asked you to dig in. The risk and fraud teams have been flagging concerns about unusual spending patterns, high-debt customers, and potential card compromise, but they lack the bandwidth to investigate themselves. Your job is to use SQL to answer a series of analytical questions that will help the business understand its customers, monitor card activity, and surface anything that looks off.
+You have just joined the Analytics team as a Data Engineering intern. Your manager has handed you access to the company's transaction database and asked you to dig in. The risk and fraud teams have been flagging concerns about unusual spending patterns, high-debt customers, and potential card compromise, but they lack the bandwidth to investigate themselves. Your job is to use SQL to answer a series of analytical questions that will help the business understand its customers, monitor card activity, and surface anything that looks off.
 
 The data you have access to covers real customer profiles, the credit and debit cards they hold, and a full history of card transactions. A separate reference table maps merchant category codes (MCCs) to human-readable business categories so you can make sense of where customers are spending their money.
 
