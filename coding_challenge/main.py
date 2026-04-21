@@ -161,6 +161,8 @@ def main():
     - Which clients have the highest total transaction amounts, and what are their demographics?
     '''
 
+    ### Your Code Goes Here ###
+
     print("\nBonus Question Result:\n")
 
     '''
@@ -172,6 +174,8 @@ def main():
     Then, write a SQL query using the new table which shows the top 5 states by total 
     debit and credit card spending each year.
     '''
+
+    ### Your Code Goes Here ###
 
 if __name__ == "__main__":
     main()
